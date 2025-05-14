@@ -1,0 +1,41 @@
+#blogo {
+    border-radius: 40px;
+}
+.box1 {
+    width: 100%;
+    height: 1520px;
+    background-color: #00122a;
+    border-radius: 40px;
+    color: #00eaff;
+    font-size: 70px;
+}
+h1 {
+    font-size: 100px;
+    background-color: #00eaff;
+    color: #00122a;
+    
+}
+h1 {
+  font-family: 'flip flop',flip flop;
+}
+button {
+    width: 230px;
+    height: 120px;
+    border-radius: 30px;
+    background-color: #00eaff;
+    border-color: #00122a;
+    align:center;
+    font-size: 42px;
+    
+}
+button:hover {
+    background-color: #00122a;
+    border-color: #00eaff;
+    color: #00eaff;
+}
+hr {
+    background-color: #00eaff;
+    border-width: 5px;
+    border-color: #00eaff;
+    hieght:100px;
+}
